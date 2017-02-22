@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rome Data Science</title>
-    <link>http://romedatascience.github.io/index.xml</link>
+    <link>https://romedatascience.github.io/index.xml</link>
     <description>Recent content on Rome Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://romedatascience.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://romedatascience.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://romedatascience.github.io/work/proj-1/</link>
+      <link>https://romedatascience.github.io/work/proj-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://romedatascience.github.io/work/proj-1/</guid>
+      <guid>https://romedatascience.github.io/work/proj-1/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Rome Data Science&lt;/strong&gt; group is a community of people who want to discuss and explore data science-related tools and applications. Our mission is to create a network among all those who are interested in data science, for professional reasons or just for passion.
 &lt;img src=&#34;img/work/proj-1/img1.jpg&#34; alt=&#34;our mission&#34; /&gt;&lt;/p&gt;
 </description>
@@ -21,10 +21,10 @@
     
     <item>
       <title></title>
-      <link>http://romedatascience.github.io/work/proj-2/</link>
+      <link>https://romedatascience.github.io/work/proj-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://romedatascience.github.io/work/proj-2/</guid>
+      <guid>https://romedatascience.github.io/work/proj-2/</guid>
       <description>&lt;p&gt;&lt;strong&gt;MULTI-DISCIPLINARITY&lt;/strong&gt;
 We want to promote multidisciplinarity, involving people with different background and competencies in various background and competencies in varied topics.
 &lt;img src=&#34;img/work/proj-2/multi1.jpg&#34; alt=&#34;multi disciplinarity&#34; /&gt;&lt;/p&gt;
@@ -45,10 +45,10 @@ We embrace networking and collaboration about members, encouraging forum of idea
     
     <item>
       <title></title>
-      <link>http://romedatascience.github.io/work/proj-3/</link>
+      <link>https://romedatascience.github.io/work/proj-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://romedatascience.github.io/work/proj-3/</guid>
+      <guid>https://romedatascience.github.io/work/proj-3/</guid>
       <description>&lt;p&gt;&lt;strong&gt;MEET-UP&lt;/strong&gt;
 Our meet-ups, organised every month in Rome, are the chance to know each other, to present our projects in Big Data, but also to talk to Gurus of data science and keep abreast of the current state of the art in data analytics.
 &lt;img src=&#34;img/work/proj-3/meetup.jpg&#34; alt=&#34;meet up&#34; /&gt;&lt;/p&gt;
@@ -65,10 +65,10 @@ We invite you to follow us on our Social network profiles.
     
     <item>
       <title></title>
-      <link>http://romedatascience.github.io/work/proj-4/</link>
+      <link>https://romedatascience.github.io/work/proj-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://romedatascience.github.io/work/proj-4/</guid>
+      <guid>https://romedatascience.github.io/work/proj-4/</guid>
       <description>&lt;p&gt;We are a group of young and heterogeneous people. Economists, Computer scientists, Journalists and engineers, united by the common passion for data.
 &lt;strong&gt;We are looking forward to meet you!&lt;/strong&gt;
 &lt;img src=&#34;img/work/proj-4/team.jpg&#34; alt=&#34;team&#34; /&gt;&lt;/p&gt;
@@ -77,30 +77,30 @@ We invite you to follow us on our Social network profiles.
     
     <item>
       <title></title>
-      <link>http://romedatascience.github.io/work/proj-5/</link>
+      <link>https://romedatascience.github.io/work/proj-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://romedatascience.github.io/work/proj-5/</guid>
+      <guid>https://romedatascience.github.io/work/proj-5/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-5/freshitup-JieyuXiong.jpg&#34; alt=&#34;Fresh It Up&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://romedatascience.github.io/work/proj-6/</link>
+      <link>https://romedatascience.github.io/work/proj-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://romedatascience.github.io/work/proj-6/</guid>
+      <guid>https://romedatascience.github.io/work/proj-6/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-6/TimeLinePage-SergeyValiukh.jpg&#34; alt=&#34;Timeline Page&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://romedatascience.github.io/work/proj-7/</link>
+      <link>https://romedatascience.github.io/work/proj-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://romedatascience.github.io/work/proj-7/</guid>
+      <guid>https://romedatascience.github.io/work/proj-7/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-7/img0.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
 &lt;img src=&#34;img/work/proj-7/img1.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
 &lt;img src=&#34;img/work/proj-7/img2.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
@@ -111,10 +111,10 @@ We invite you to follow us on our Social network profiles.
     
     <item>
       <title></title>
-      <link>http://romedatascience.github.io/work/proj-8/</link>
+      <link>https://romedatascience.github.io/work/proj-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://romedatascience.github.io/work/proj-8/</guid>
+      <guid>https://romedatascience.github.io/work/proj-8/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-8/stripes-co-NickZoutendijk.jpg&#34; alt=&#34;Stripes &amp;amp; Co&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
