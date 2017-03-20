@@ -1,0 +1,5 @@
+weight: 3
+name: "Meetups"
+icon: "fa fa-meetup"
+description: >
+    <p>Our meetups engage the Rome data science community in an open, active discussion about best practices and new developments in the field.</p>

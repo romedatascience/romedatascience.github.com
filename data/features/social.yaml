@@ -1,0 +1,6 @@
+weight: 5
+name: "Social"
+icon: "fa fa-handshake-o"
+description: >
+    <p>Follow us on twitter</p>
+    <a href="https://twitter.com/romedatascience" class="twitter-follow-button" data-show-count="false">Follow @romedatascience</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
