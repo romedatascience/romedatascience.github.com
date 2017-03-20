@@ -1,121 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rome Data Science</title>
-    <link>http://www.romedatascience.org/index.xml</link>
-    <description>Recent content on Rome Data Science</description>
+    <title>romedatascience</title>
+    <link>http://romedatascience.org/index.xml</link>
+    <description>Recent content on romedatascience</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.romedatascience.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright (c) 2015 - 2017, romedatascience; all rights reserved.</copyright>
+    <atom:link href="http://romedatascience.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>http://www.romedatascience.org/work/proj-1/</link>
+      <title>Contact</title>
+      <link>http://romedatascience.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.romedatascience.org/work/proj-1/</guid>
-      <description>&lt;p&gt;The &lt;strong&gt;Rome Data Science&lt;/strong&gt; group is a community of people who want to discuss and explore data science-related tools and applications. Our mission is to create a network among all those who are interested in data science, for professional reasons or just for passion.
-&lt;img src=&#34;img/work/proj-1/img1.jpg&#34; alt=&#34;our mission&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.romedatascience.org/work/proj-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.romedatascience.org/work/proj-2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;MULTI-DISCIPLINARITY&lt;/strong&gt;
-We want to promote multidisciplinarity, involving people with different background and competencies in various background and competencies in varied topics.
-&lt;img src=&#34;img/work/proj-2/multi1.jpg&#34; alt=&#34;multi disciplinarity&#34; /&gt;&lt;/p&gt;
+      <guid>http://romedatascience.org/contact/</guid>
+      <description>
 
-&lt;p&gt;&lt;strong&gt;OPEN-MINDED&lt;/strong&gt;
-We are interested in disseminating knowledge and spreading information about data science: from statistical thinking to machine learning techniques.
-&lt;img src=&#34;img/work/proj-2/multi2.jpg&#34; alt=&#34;open minded&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;
 
-&lt;p&gt;&lt;strong&gt;MULTI-LANGUAGES&lt;/strong&gt;
-We are open to different languages: R, Python, Matlab, Julia, etc&amp;hellip; and different technologies as well, since we are vendor independent.
-&lt;img src=&#34;img/work/proj-2/multi3.jpg&#34; alt=&#34;multi languages&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Are you curious about romedatascience mission, organization, future plans, or you want to get involved?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;NET-WORKING&lt;/strong&gt;
-We embrace networking and collaboration about members, encouraging forum of ideas and free debates.
-&lt;img src=&#34;img/work/proj-2/multi4.jpg&#34; alt=&#34;networking&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Please feel free to contact us.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title></title>
-      <link>http://www.romedatascience.org/work/proj-3/</link>
+      <title>FAQ</title>
+      <link>http://romedatascience.org/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.romedatascience.org/work/proj-3/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;MEET-UP&lt;/strong&gt;
-Our meet-ups, organised every month in Rome, are the chance to know each other, to present our projects in Big Data, but also to talk to Gurus of data science and keep abreast of the current state of the art in data analytics.
-&lt;img src=&#34;img/work/proj-3/meetup.jpg&#34; alt=&#34;meet up&#34; /&gt;&lt;/p&gt;
+      <guid>http://romedatascience.org/faq/</guid>
+      <description>
 
-&lt;p&gt;&lt;strong&gt;BLOG&lt;/strong&gt;
-Our blog is the on-line platform where you can find and express your point of view about the themes presented during our meet-ups, about our projects and where you can open discussin yourself about your experience in analytics.
-&lt;img src=&#34;img/work/proj-3/blog.jpg&#34; alt=&#34;blog&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;SOCIAL NETWORK&lt;/strong&gt;
-We invite you to follow us on our Social network profiles.
-&lt;img src=&#34;img/work/proj-3/social.jpg&#34; alt=&#34;social&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.romedatascience.org/work/proj-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.romedatascience.org/work/proj-4/</guid>
-      <description>&lt;p&gt;We are a group of young and heterogeneous people. Economists, Computer scientists, Journalists and engineers, united by the common passion for data.
-&lt;strong&gt;We are looking forward to meet you!&lt;/strong&gt;
-&lt;img src=&#34;img/work/proj-4/team.jpg&#34; alt=&#34;team&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.romedatascience.org/work/proj-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.romedatascience.org/work/proj-5/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-5/freshitup-JieyuXiong.jpg&#34; alt=&#34;Fresh It Up&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.romedatascience.org/work/proj-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.romedatascience.org/work/proj-6/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-6/TimeLinePage-SergeyValiukh.jpg&#34; alt=&#34;Timeline Page&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.romedatascience.org/work/proj-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.romedatascience.org/work/proj-7/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-7/img0.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
-&lt;img src=&#34;img/work/proj-7/img1.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
-&lt;img src=&#34;img/work/proj-7/img2.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
-&lt;img src=&#34;img/work/proj-7/img3.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;
-&lt;img src=&#34;img/work/proj-7/img4.jpg&#34; alt=&#34;Weather Dashboard&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.romedatascience.org/work/proj-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.romedatascience.org/work/proj-8/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/proj-8/stripes-co-NickZoutendijk.jpg&#34; alt=&#34;Stripes &amp;amp; Co&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;1-what-to-do-if-i-have-still-not-received-the-order&#34;&gt;1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?&lt;/h2&gt;
+
+&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2-what-are-the-postal-rates&#34;&gt;2. WHAT ARE THE POSTAL RATES?&lt;/h2&gt;
+
+&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore sustainable VHS.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-do-you-send-overseas&#34;&gt;3. DO YOU SEND OVERSEAS?&lt;/h2&gt;
+
+&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore sustainable VHS.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-why-are-you-more-expensive-than-others&#34;&gt;4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?&lt;/h2&gt;
+
+&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;5-another-important-question&#34;&gt;5. ANOTHER IMPORTANT QUESTION&lt;/h2&gt;
+
+&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In case you haven&amp;rsquo;t found the answer for your question please feel free to contact us, our customer support will be happy to help you.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
