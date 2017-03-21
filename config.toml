@@ -1,4 +1,4 @@
-baseurl = "http://romedatascience.org"
+baseurl = "http://romedatascience.org/"
 title = "romedatascience"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
