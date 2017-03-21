@@ -60,7 +60,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "romedatascience@gmail.com"
 
-    about_us = "<p>Rome Data Science is a non-profit organization dedicated to the open dissemination of data science in the Italian largest city</p>"
+    about_us = "<p>romedatascience is a non-profit organization dedicated to the open dissemination of data science in the Italian largest city</p>"
     copyright = "Copyright (c) 2015 - 2017, romedatascience; all rights reserved."
 
     # Format dates with Go's time formatting
