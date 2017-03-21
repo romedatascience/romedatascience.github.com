@@ -3,7 +3,7 @@ go:
 - 1.7.1
 env:
   global:
-  - SSH_KEY="travis-key"
+  - SSH_KEY="id_rsa_romedatascience"
   - GIT_NAME="Giuseppe Ragusa"
   - GIT_EMAIL="giuseppe.ragusa@gmail.com"
   - SOURCE_DIR="public"
