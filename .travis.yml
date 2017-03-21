@@ -1,0 +1,22 @@
+language: go
+go:
+- 1.7.1
+env:
+  global:
+  - SSH_KEY="travis-key"
+  - GIT_NAME="Giuseppe Ragusa"
+  - GIT_EMAIL="giuseppe.ragusa@gmail.com"
+  - SOURCE_DIR="public"
+  - DEPLOY_BRANCH="source"
+install:
+- ./scripts/install-hugo.sh
+script:
+- ./hugo
+before_install:
+- openssl aes-256-cbc -K $encrypted_720e6dee2a15_key -iv $encrypted_720e6dee2a15_iv
+  -in id_rsa_romedatascience.enc -out ~\/.ssh/id_rsa_romedatascience -d
+before_script:
+- pip install Pygments --user
+after_success:
+- echo "romedatascience.org" > ./public/CNAME
+- ./scripts/deploy.sh
