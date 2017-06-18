@@ -113,8 +113,7 @@ paginate = 10
     icon = "fa fa-file-code-o"
     title = "Upcoming meetup: June, 21 2017"
     subtitle = "Tecnologia blockchain, elementi di novità, proprietà e prospettive evolutive."
-    link_url = 
-"https://www.eventbrite.it/e/biglietti-tecnologia-blockchain-elementi-di-novita-proprieta-e-prospettive-evolutive-35238739017"
+    link_url = "https://www.eventbrite.it/e/biglietti-tecnologia-blockchain-elementi-di-novita-proprieta-e-prospettive-evolutive-35238739017"
     link_text = "RSVP"
 
 [params.clients]
