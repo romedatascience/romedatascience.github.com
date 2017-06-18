@@ -111,9 +111,10 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Upcoming meetup: March, 20 2017"
-    subtitle = "DATA INTELLIGENCE FOR INFORMATION AND COMMUNICATION - THE CATCHY EXPERIENCE"
-    link_url = "#"
+    title = "Upcoming meetup: June, 21 2017"
+    subtitle = "Tecnologia blockchain, elementi di novità, proprietà e prospettive evolutive."
+    link_url = 
+"https://www.eventbrite.it/e/biglietti-tecnologia-blockchain-elementi-di-novita-proprieta-e-prospettive-evolutive-35238739017"
     link_text = "RSVP"
 
 [params.clients]
